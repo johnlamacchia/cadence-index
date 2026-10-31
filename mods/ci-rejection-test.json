@@ -1,0 +1,16 @@
+{
+    "id":  "ci-rejection-test",
+    "name":  "CI rejection test",
+    "author":  "cadence",
+    "description":  "Not a mod: the installer exe, used to prove CI rejects it.",
+    "version":  "0",
+    "gd":  [
+               "2.2091"
+           ],
+    "file":  "ci_rejection_test.dll",
+    "download":  "https://github.com/johnlamacchia/cadence/releases/download/v1.1.0/CadenceInstaller.exe",
+    "sha256":  "7dcce170442d203f4dd38a8579d24092d8b1af63fbdfb2cec5a767a64093642f",
+    "size":  1632256,
+    "source":  "https://github.com/johnlamacchia/cadence",
+    "license":  "MIT"
+}
